@@ -6,7 +6,7 @@ J'ai voulu élaborer une animation de texte grâce au plugin JavaScript typewrit
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/animation_de_texte/
 
 ## Développez avec
 
